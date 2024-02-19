@@ -17,7 +17,7 @@ the benefits of multi-threading start to outweigh the overhead associated with m
 - Run the Application: Navigate to the root directory of the project in your terminal and run the Main class.
 
 ## Result
-With Intel i7 8750H, 10 character per sequence:
+When the function designed to print out the result, with Intel i7 8750H, 10 character per sequence:
 ### Total 100, each thread 20: 
 - Single thread took 18 milliseconds
 - Multi-threads took 16 milliseconds
